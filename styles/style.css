@@ -378,3 +378,48 @@ img {
    margin-top: 21px;
 }
 /* ===================================== MAIN end ======================================= */
+
+/* ===================================== footer start ======================================= */
+.footer{
+   padding: 70px 55px;
+   background: #f7f7f7;
+}
+.footer__link{
+   background: #011556;
+   color: #fff;
+   font-size: 16px;
+   line-height: 11px;
+   border-radius: 27px;
+   padding: 20px 86px;
+   margin-bottom: 30px;
+   border: 1px solid #011556;
+}
+.footer__link:hover{
+background: #fff;
+color: #011556;
+}
+.footer-content__Link{
+   display: inline-block;
+   height: 52px;
+   width: 52px;
+   border-radius: 50%;
+   background: #d3d3d3;
+   color: #fff;
+   font-size: 21px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 0 8px;
+}
+.footer-content__Link:hover{
+   background: #011556;
+   color: #fff;
+}
+.footer-content__copyright{
+   font-size: 17px;
+   color: rgba(0, 0, 0, 0.6);
+}
+.footer-content{
+   align-items: center;
+}
+/* ===================================== footer end ======================================= */
